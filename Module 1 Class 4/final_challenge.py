@@ -1,0 +1,11 @@
+number1 = int(input("Enter first number"))
+number2 = int(input("Enter second number"))
+
+print(f'sum = {number1 + number2}')
+print(f'subtraction = {number1 - number2}')
+print(f'multiplication = {number1 * number2}')
+print(f'division = {number1 / number2}')
+print(f'division rounnding up = {round(number1 / number2)}')
+print(f'division rounding down = {number1 // number2}')
+print(f'MODULUS = {number1 % number2}')
+print(f'abs = {abs(number1 + number2)}')
